@@ -1,6 +1,6 @@
 .env
 logs/
-plugins/
+# plugins/
 __pycache__/
 *.pyc
 .gemini/
